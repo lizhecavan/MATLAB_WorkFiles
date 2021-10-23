@@ -1,4 +1,4 @@
-clear
+
 %生成矩阵A
 n = 5;
 A = magic(n)
